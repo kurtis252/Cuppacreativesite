@@ -2002,7 +2002,7 @@ input, select, textarea {
 				transform: translateZ(0);
 				position: relative;
 				width: 35%;
-				margin: 0;
+				margin: 5%;
 			}
 
 			.main.style2.left {
